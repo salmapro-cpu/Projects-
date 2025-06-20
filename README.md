@@ -1,4 +1,4 @@
-# Projects
+# Description  
 Developed an advanced digital version of the traditional Jackaroo board game with enhanced features, including:
 
 Custom Game Logic: Expanded traditional rules by introducing new card types and unique player moves.
